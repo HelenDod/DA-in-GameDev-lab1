@@ -30,22 +30,22 @@
 ![1572.png](https://i.postimg.cc/xCmJvzWF/1572.png)
 
 3) Создать объект Plane;
-image.png
+![1573.png](https://i.postimg.cc/63Pc3nCj/1573.png)
 
 4) Создать объект Cube;
-image.png
+![1574.png](https://i.postimg.cc/xT2xbGWh/1574.png)
 
 5) Создать объект Sphere;
-image.png
+![1575.png](https://i.postimg.cc/yY2NPdyM/1575.png)
 
 6) Установить компонент Sphere Collider для объекта Sphere;
-image.png
+![1576.png](https://i.postimg.cc/W3cW6Mdd/1576.png)
 
 7) Настроить Sphere Collider в роли триггера;
-image.png
+![1577.png](https://i.postimg.cc/pLDn5zMG/1577.png)
 
 8) Объект куб перекрасить в красный цвет;
-image.png
+![image.jpg](https://i.postimg.cc/RhBY92KC/image.jpg)]
 
 9) Добавить кубу симуляцию физики, при это куб не должен проваливаться под Plane;
 image.png
