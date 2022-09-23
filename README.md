@@ -106,7 +106,7 @@
 ![1609.png](https://i.postimg.cc/K8pVzBzd/1609.png)
 
 5) Радоваться упавшим кубикам!
-![3.jpg](https://i.postimg.cc/zGRzqzDS/3.jpg)
+![a](file:///C:/Users/%D0%95%D0%BB%D0%B5%D0%BD%D0%B0/Pictures/Screenshots/3.JPG)
 
 ## Выводы
 
