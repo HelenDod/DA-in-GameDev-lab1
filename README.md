@@ -97,16 +97,16 @@
  ![1606.png](https://i.postimg.cc/7hhQ1Lf5/1606.png)
 
 2) Написать скрипт, позволяющий генерировать n-кубиков, считывая с InputField введённое количество.
-![1607.png](https://postimg.cc/xkDMXtJG)
+![Snimok_ekrana_1607](https://user-images.githubusercontent.com/90499063/191979044-7bac16d3-69f4-4b01-88e2-0f66f0c78844.png)
 
 3) Создать GameObject и префаб куба, подключить к объекту написанный выше скрипт.
-![1608.png](https://postimg.cc/4Y5sc3n8)
+![Snimok_ekrana_1608](https://user-images.githubusercontent.com/90499063/191979064-fb33dc76-1699-410d-a2bf-0cf19a5adcc5.png)
 
 4) Добавить к InputField запуск функции.
-![1609.png](https://postimg.cc/w1JF4tDV)
+![Snimok_ekrana_1609](https://user-images.githubusercontent.com/90499063/191979084-34c92255-44ac-4966-abd0-f57646067c96.png)
 
 5) Радоваться упавшим кубикам!
-![3.jpg](https://postimg.cc/21rRwfZV)
+![3](https://user-images.githubusercontent.com/90499063/191979018-dd8f8692-6ab3-48bb-ba8d-f32864ea8928.jpg)
 
 ## Выводы
 
