@@ -30,13 +30,13 @@
 ![1572.png](https://i.postimg.cc/xCmJvzWF/1572.png)
 
 3) Создать объект Plane;
-![1573.png](https://i.postimg.cc/63Pc3nCj/1573.png)
+![1573.png](https://i.postimg.cc/RZKXCgCN/1573.png)
 
 4) Создать объект Cube;
 ![1574.png](https://i.postimg.cc/xT2xbGWh/1574.png)
 
 5) Создать объект Sphere;
-![1575.png](https://i.postimg.cc/yY2NPdyM/1575.png)
+![1575.png](https://i.postimg.cc/Tw4rJb2z/1575.png)
 
 6) Установить компонент Sphere Collider для объекта Sphere;
 ![1576.png](https://i.postimg.cc/W3cW6Mdd/1576.png)
@@ -45,21 +45,21 @@
 ![1577.png](https://i.postimg.cc/pLDn5zMG/1577.png)
 
 8) Объект куб перекрасить в красный цвет;
-![image.jpg](https://i.postimg.cc/RhBY92KC/image.jpg)]
+![image.jpg](https://i.postimg.cc/RhBY92KC/image.jpg)
 
 9) Добавить кубу симуляцию физики, при это куб не должен проваливаться под Plane;
-image.png
+![1.jpg](https://i.postimg.cc/jSqgdz9T/1.jpg)
 
 10) Написать скрипт, который будет выводить в консоль сообщение о том,
 что объект Sphere столкнулся с объектом Cube;
-image.png
-image.png
+![1581.png](https://i.postimg.cc/nVRMPZJ1/1581.png)
+![1582.png](https://i.postimg.cc/ZKW0kgYz/1582.png)
 
 11) При столкновении Cube должен менять свой цвет на зелёный, а при
 завершении столкновения обратно на красный.
-image.png
-image.png
-image.png
+![1584.png](https://i.postimg.cc/2yFsgCq7/1584.png)
+![1585.png](https://i.postimg.cc/3wszRkmZ/1585.png)
+![1586.png](https://i.postimg.cc/QdVzJQqb/1586.png)
 
 ## Задание 2
 ### Продемонстрируйте на сцене в Unity следующее:
@@ -69,31 +69,30 @@ image.png
 
 Ход работы:
 1) Сфера дочерний объект куба.
-image.png
+![1587.png](https://i.postimg.cc/ryrS6Q8b/1587.png)
 
 Сфера перестала быть дочерним объектом.
-image.png
+![1588.png](https://i.postimg.cc/0Qgy7GLM/1588.png)
 
 Координаты объекта изменились, так как он перестал зависеть от объекта, который был для него родительским.
 
 
 2) Создайте три различных примера работы компонента RigidBody?
 У шара включена гравитация, поэтому при запуске сцены этот объект падает.
-image.png
-image.png
+![1590.png](https://i.postimg.cc/j2F9JcFB/1590.png)
+![1591.png](https://i.postimg.cc/L8dQKJKk/1591.png)
 
 У куба включена кинематика, поэтому при запуске данный объект временно нефизический, на него не действуют столкновения.
-image.png
+![1592.png](https://i.postimg.cc/vZzKrGkW/1592.png)
 
 Куб в данном случае закреплён по всем трём координатам, поэтому при соприкосновении с объектом он не улетает, а просто вращается на месте.
-image.png
-image.png
+![1594.png](https://i.postimg.cc/D06GCYTY/1594.png)
+![1595.png](https://i.postimg.cc/N0R5JP87/1595.png)
 
 ## Задание 3
 ### Реализуйте на сцене генерацию n кубиков. Число n вводится пользователем после старта сцены.
  Ход работы:
  1) Создать ImputField.
- image.png
 
 
 
